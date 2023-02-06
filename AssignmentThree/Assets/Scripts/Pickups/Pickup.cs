@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * Pickup.cs
- * Assignment2
+ * Assignment3
  * Handles abstract class for Pickups
  */
 

@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * DamageBuff.cs
- * Assignment2
+ * Assignment3
  * Handles Damage Buff Pickups
  */
 

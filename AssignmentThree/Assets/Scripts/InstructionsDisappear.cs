@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * InstructionsDisappear.cs
- * Assignment2
+ * Assignment3
  * Handles Instruction UI
  */
 

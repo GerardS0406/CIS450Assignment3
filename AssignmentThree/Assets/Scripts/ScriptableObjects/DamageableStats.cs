@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * DamageableStats.cs
- * Assignment2
+ * Assignment3
  * Scriptable Object Script that handles stats for damageables
  */
 

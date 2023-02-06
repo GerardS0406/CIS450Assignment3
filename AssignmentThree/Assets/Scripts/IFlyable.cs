@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * EnemyController.cs
- * Assignment2
+ * Assignment3
  * Handles whether an entity can fly or not
  */
 

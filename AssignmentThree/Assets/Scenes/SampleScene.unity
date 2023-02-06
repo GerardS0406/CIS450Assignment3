@@ -405,7 +405,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07f0c80a923aea348adce5bd175ce52a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pc: {fileID: 258928480}
   text: {fileID: 145778645}
 --- !u!1 &152482268
 GameObject:
@@ -2409,8 +2408,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "How to Play: \nMove with WASD\nClick to Damage Enemies\nCollide with Powerups
-    to Collect"
+  m_text: "How to Play: \nMove with WASD, Space to Jump\nClick to Damage Enemies\nCollide
+    with Powerups to Collect"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3316,7 +3315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8c6d845121d9e042a3248f3eb05ee19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pc: {fileID: 258928480}
   text: {fileID: 1438545246}
   countdownObj: {fileID: 1438545243}
 --- !u!1 &1788960330
@@ -3467,7 +3465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e60ec009bc10d418552c6f0ad8e2ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pc: {fileID: 258928480}
   text: {fileID: 1788960333}
 --- !u!1 &1937789724
 GameObject:

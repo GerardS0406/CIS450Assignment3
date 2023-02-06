@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * Wings.cs
- * Assignment2
+ * Assignment3
  * Handles Wings Pickup
  */
 

@@ -1,7 +1,7 @@
 /*
  * Gerard Lamoureux
  * HealthPack.cs
- * Assignment2
+ * Assignment3
  * Handles Health Pickups
  */
 
